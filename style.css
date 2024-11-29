@@ -8,6 +8,10 @@ html{
     scroll-behavior: smooth;
 }
 body{
+    scroll-behavior:smooth;
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
     background-image: linear-gradient(to left,#243642,#387478);
 }
 a{
